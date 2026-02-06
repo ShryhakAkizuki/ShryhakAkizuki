@@ -6,7 +6,7 @@
     alt="Dark Souls vibe"
     align="right"
     style="
-    width: 350px;
+    width: 330px;
     margin-left: 20px;
     margin-right: 20px ;
   "
