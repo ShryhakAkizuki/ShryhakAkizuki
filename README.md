@@ -4,9 +4,11 @@
   <img
     src="https://tenor.com/es-419/view/dark-souls-gif-16150712255956092871.gif"
     alt="Dark Souls vibe"
-    width="300"
     align="right"
-    style="margin-left: 20px;"
+    style="
+    width: 100%;
+    max-width: 220px;
+    margin-left: 20px;"
   />
 
   <p>
