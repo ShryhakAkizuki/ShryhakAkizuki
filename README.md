@@ -24,7 +24,21 @@
     technologies. I'm currently focused on improving my C++ and
     parallel programming skills.
   </p>
+
 </div>
+
+
+
+
+## 🧰 Languages and Tools
+
+## 🛠️ Projects
+
+## 🔬 Research & Experiments
+
+- 📄 Selected publications:
+
+## 🔥 Currently Learning
 
 
 <!--
