@@ -1,4 +1,27 @@
-## Hi there 👋
+## 🎮 Shryhak Akizuki
+
+<div align="left">
+  <img
+    src="https://tenor.com/es-419/view/dark-souls-gif-16150712255956092871.gif"
+    alt="Dark Souls vibe"
+    width="300"
+    align="right"
+    style="margin-left: 20px;"
+  />
+
+  <p>
+    Hello! My nickname is Shryhak Akizuki. I'm a dedicated gamer,
+    electronic engineer, and computer engineering student at
+    Universidad Nacional de Colombia.
+  </p>
+
+  <p>
+    My interests include programming, research, and exploring new
+    technologies. I'm currently focused on improving my C++ and
+    parallel programming skills.
+  </p>
+</div>
+
 
 <!--
 **ShryhakAkizuki/ShryhakAkizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
