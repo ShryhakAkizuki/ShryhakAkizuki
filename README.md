@@ -8,7 +8,8 @@
     style="
     width: 330px;
     margin-left: 20px;
-    margin-right: 20px ;
+    margin-right: 20px;
+    margin-bottom: 10px
   "
   />
 
