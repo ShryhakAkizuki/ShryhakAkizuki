@@ -12,13 +12,13 @@
   "
   />
 
-  <p>
+  <p align="justify">
     Hello! My nickname is Shryhak Akizuki. I'm a dedicated gamer,
     electronic engineer, and computer engineering student at
     Universidad Nacional de Colombia.
   </p>
 
-  <p>
+  <p align="justify">
     My interests include programming, research, and exploring new
     technologies. I'm currently focused on improving my C++ and
     parallel programming skills.
