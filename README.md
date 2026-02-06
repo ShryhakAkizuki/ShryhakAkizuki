@@ -2,7 +2,7 @@
 
 <div align="left">
   <img
-    src="https://tenor.com/es-419/view/dark-souls-gif-16150712255956092871.gif"
+    src=".\Images\DarkSouls-Firelink.gif"
     alt="Dark Souls vibe"
     align="right"
     style="
