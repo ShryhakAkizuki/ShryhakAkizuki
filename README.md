@@ -56,12 +56,34 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![HackRF One](https://img.shields.io/badge/HackRF%20One-2C3E50?style=flat)
 
-
 ## 🛠️ Projects
 
-## 🔬 Research & Experiments
+The most interesting projects I've worked on include:
+- **[Multiverso DataStructure](https://github.com/ShryhakAkizuki/Multiverso-DataStructure-2025-II):** Interactive 3D random network visualizer using modern C++ and OpenGL.
 
-- 📄 Selected publications:
+- **[Radar mail validation - IA](https://github.com/ShryhakAkizuki/Radar_IA):** Boat classifier based on images captured by a radar system, using YoloV11.
+
+- **[Control CerboGX/PDU](https://github.com/ShryhakAkizuki/Control-CerboGX-PDU):** Control system that allows you to manage the power on/off status of devices connected to a PDU, implementing schedules and battery thresholds obtained through CerboGX via TCP/IP.
+
+- **[Tecnicas de IA](https://github.com/ShryhakAkizuki/Tecnicas-de-IA---2024-I):** Research into processing gestures through image processing and other techniques.
+
+- **[Simulador de Evolucion de Poblaciones](https://github.com/ShryhakAkizuki/Sim_Evolucion_Poblaciones):** Simulator of population evolution through interaction between entities in a procedurally generated terrain.
+
+## 📚 Publications
+
+### 🛰️ Design of a Prototype Remote Monitoring System for the Protection and Conservation of Territories in the Colombian Amazon Rainforest  
+**IEEE Latin America Transactions, 2026**  
+DOI: [10.1109/TLA.2026.11334053](https://doi.org/10.1109/TLA.2026.11334053)
+
+Co-author.
+
+---
+
+### 🌡️ Interrogation Scheme for Fiber Bragg Grating Temperature Sensors Using a Tunable VCSEL  
+**28th International Conference on Optical Fiber Sensors (OFS 2023)**  
+DOI: [10.1364/OFS.2023.Th6.38](https://doi.org/10.1364/OFS.2023.Th6.38)
+
+Co-author.
 
 ## 🔥 Currently Learning
 
