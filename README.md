@@ -70,6 +70,7 @@ The most interesting projects I've worked on include:
 - **[Simulador de Evolucion de Poblaciones](https://github.com/ShryhakAkizuki/Sim_Evolucion_Poblaciones):** Simulator of population evolution through interaction between entities in a procedurally generated terrain.
 
 ## 📚 Publications
+I have contributed to the following publications:
 
 ### 🛰️ Design of a Prototype Remote Monitoring System for the Protection and Conservation of Territories in the Colombian Amazon Rainforest  
 **IEEE Latin America Transactions, 2026**  
